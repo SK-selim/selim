@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+sing up pass
+</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="Style.css" title="" type="" />
+</head>
+<body>
+<div class="singup">
+
+
+
+<div class="singup-form">
+
+<div class="login-icon">
+<i class="fa fa-user" aria-hidden="true"></i>
+
+</div>
+<div class="singup-text">
+<h2>sing-up <h2>
+</div>
+<div class="main-singup">
+<form action="" mathod="" name="sk-form" onsubmit="mainsingup()">
+<ul>
+<li>
+<input type="text" name="text" id="text" placeholder="Name"/>
+</li>
+<li>
+<input type="email" name="email" id="email" placeholder="E-mail"/>
+</li>
+<li>
+<input type="password" name="password" id="password" placeholder="password"/>
+</li>
+<li>
+<input type="password" name="password" id="password" placeholder="confirm-password"/>
+</li>
+<li>
+<input type="submit" name="submit" id="submit" value="submit"/>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</body>
+</html>

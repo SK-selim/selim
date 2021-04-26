@@ -1,0 +1,91 @@
+
+<html>
+<head>
+<title>contack page
+</title>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="Style.css" title="" type="" />
+</head>
+<body>
+
+
+
+<div class="contact-header">
+ 
+<div class="contact-us-header">
+<h1>Contack-us</h1>
+
+<p>E-mail us and keep upto data with our latest news </p> 
+</div>
+
+
+<div class="every-contack">
+<div class="every-contack-icon">
+
+<div class="every-contackicon">
+
+<div class="icon-contact">
+<i class="fa fa-map-marker" aria-hidden="true"></i> 
+</div>
+<div class="contact-text">
+<h3>address</h3>
+<p>dinagpur city</p>
+</div>
+</div>
+
+<div class="every-contackicon">
+<div class="icon-contact">
+<i class="fa fa-phone-square" aria-hidden="true"></i> 
+</div>
+<div class="contact-text">
+<h3>mobile</h3>
+<p>   01750443716 </p>
+</div>
+</div>
+
+
+<div class="every-contackicon">
+<div class="icon-contact">
+<i class="fa fa-envelope-o" aria-hidden="true"></i> 
+</div>
+<div class="contact-text">
+<h3>email</h3>
+<p>selimreza3716</p>
+</div>
+</div>
+
+
+
+</div>
+
+<div class="form-action">
+<form action="" get="">
+<input type="name" name="name" 
+placeholder="Name"required="1"/>
+<br>
+
+<input type="email" name="name" 
+placeholder="E-mail"required="1"/>
+<br>
+
+<textarea name="textarea" id="textarea"placeholder="comment" value="Massage" required="1"></textarea>
+<br>
+<input type="submit" id="submit" value="Send"/>
+
+</form>
+
+</div>
+
+
+
+</div>
+</div>
+
+
+
+</body>
+</html>
+
+

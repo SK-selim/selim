@@ -1,0 +1,145 @@
+<html>
+<head>
+<title>
+</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="Style.css" title="" type="" />
+</head>
+<body>
+
+<div class="header clearfix">
+
+<div class="header-logo">
+<a href="#">
+<img class="img-logo" src="img/images.png" alt="" /></a>
+</div>
+<!-- start search button -->
+<div class="search">
+<input type="search" id="myInput" placeholder="Search..." onkeyup="myFunction()" />
+<div class="icon">
+<i class="fa fa-search" aria-hidden="true"></i>
+</div>
+<!-- search button end -->
+
+</div>
+
+<div class="header-manu">
+<div class="manu" onclick="manue()">
+<h3><i class="fa fa-bars" aria-hidden="true"></i></h3>
+</div>
+</div>
+
+
+</div>
+<!-- ber end --!>
+
+
+
+
+<!-- end header -->
+
+<div class="bar clearfix">
+<div class="close" onclick="closee()">
+<div class="fasfa">
+<h1><i class="fa fa-times-circle" aria-hidden="true"></i></h1>
+</div>
+<div class="manuber">
+<h2>manu ber</h2>
+</div>
+</div>
+<ul id="myUL">
+<li><a href="#">Home</a></li>
+<li><a href="About">About</a></li>
+<li><a href="#">contact</a></li>
+<li><a href="#"> Privacy</a></li>
+<li><a href="#">Avalable</a></li>
+<li><a href="#">Sign in</a></li>
+</ul>
+
+</div>
+<!-- manu end --!>
+
+<div class="about-section">
+<div class="content-delivari">
+
+<div class="our-delivari">
+<h1> We deliver happynes </h1>
+
+<p> The greatest, most sustainable happiness comes from making others happy. It is our privilege to deliver you happiness every single day.
+
+</p>
+
+</div>
+
+<div class="delivari-job">
+<ul>
+<li><a href="#">About us</a></li>
+<li><a href="#">job-openings</a></li>
+
+</ul>
+
+
+</div>
+</div>
+
+<div class="our-mission">
+
+<div class="our-value">
+<i class="fa fa-rocket" aria-hidden="true"></i>
+</div>
+
+<div class="our-value">
+
+</div>
+
+
+</div>
+</div>
+<!-- fotter start --!>
+
+  <hr style="width:95%;">
+  <div class="fotter">
+
+    <div class="exeplore">
+      <p>
+        Exeplore
+      </p>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Singin</a></li>
+      </ul>
+    </div>
+    
+       <div class="exeplore">
+
+      <p>
+      New-website
+
+      </p>
+      <ul>
+        <li><a href="#">Sk bd</a></li>
+        <li><a href="#">Sk bd</a></li>
+        <li><a href="#">Sk bd</a></li>
+      </ul>
+      </div>
+        <div class="exeplore">
+        
+        <p>Follow</p>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Twitter</a></li>
+          <li><a href="#">Linkting</a></li>
+        </ul>
+      </div>
+    </div>
+    
+<!-- fotter end --!>
+</body>
+
+
+<script src="Style.js" type="text/javascript" charset="utf-8"></script>
+
+</html>
